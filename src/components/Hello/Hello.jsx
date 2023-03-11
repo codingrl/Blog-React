@@ -5,7 +5,7 @@ const Hello = ({ name, age }) => {
   return (
     <>
       <p>Hello {name}</p>
-      <p>{age}</p>
+      <p>Age: {age}</p>
     </>
   );
 };
