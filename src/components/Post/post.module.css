@@ -1,0 +1,31 @@
+.post {
+  width: 40%;
+  margin: 30px auto;
+  padding: 15px;
+  background-color: #f2e3eb;
+  border-radius: 7px;
+
+}
+
+.title {
+  font-size: 24px;
+  font-weight: 600;
+  color: #410678;
+  text-align: center;
+}
+
+.published {
+  font-size: 18px;
+  color: #5d1c1f;
+}
+
+.btn {
+  width: 90px;
+  padding: 5px;
+  margin: 3px;
+  background: #462d7c;
+  color: #ebedfa;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+}

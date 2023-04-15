@@ -1,0 +1,23 @@
+.textInput {
+  width: 30%;
+  padding: 10px;
+  background:#f3f3f3;
+  border: 1px solid grey;
+}
+
+.submit {
+  padding: 10px;
+  border: 1px solid grey;
+  background: #949398;
+  cursor: pointer;
+}
+
+.wrapper-grid {
+  display: flex;
+  flex-wrap: wrap;
+}
+.wrapper-list {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+}

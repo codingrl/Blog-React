@@ -1,0 +1,49 @@
+{
+  "posts": [
+    {
+      "title": "test",
+      "published": false,
+      "id": 3
+    },
+    {
+      "title": "test1",
+      "published": false,
+      "id": 4
+    },
+    {
+      "title": "new post",
+      "published": true,
+      "id": 6
+    },
+    {
+      "title": "test",
+      "published": false,
+      "id": 7
+    },
+    {
+      "title": "test",
+      "published": true,
+      "id": 8
+    },
+    {
+      "title": "my third post",
+      "published": true,
+      "id": 9
+    },
+    {
+      "title": "my second post",
+      "published": false,
+      "id": 10
+    },
+    {
+      "title": "post",
+      "published": true,
+      "id": 11
+    },
+    {
+      "title": "",
+      "published": false,
+      "id": 12
+    }
+  ]
+}
